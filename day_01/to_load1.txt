@@ -1,0 +1,26 @@
+name.alter.groesse.shoe
+Heike Sternberg.26.1,96.49
+Aurelia Duchmann.5.1,17.29
+Gertrud Honhorst.5.1,23.31
+Stien Pentermann.28.1,7.43
+Marlena Dietheimer.28.1,1.28
+Penelope Sogemeyer.11.1,23.31
+Trude Ellerkamp.2.0,71.18
+Catrin Philipps.5.1,01.25
+Daniela Eisenbart.34.1,57.39
+Katrina Meininger.8.1,49.37
+Ludeke Schwelke.39.1,41.35
+Henko Philipps.31.1,79.45
+Ander Schattmann.33.1,49.37
+Thim Hanxleden.23.1,84.46
+Claas Bettinghaus.18.1,78.45
+Justinus Lohemann.8.1,17.29
+Ulbrich Vollbrecht.35.1,77.44
+Josue Cichorius.24.1,67.42
+Klaus Hildmann.7.1,12.28
+Ludwig Wahmhoff.5.1,22.31
+Heike Sternberg.18.1,43.36
+Aurelia Duchmann.20.1,87.47
+Gertrud Honhorst.48.1,52.38
+Stien Pentermann.17.1,89.47
+Marlena Dietheimer.12.1,24.31
